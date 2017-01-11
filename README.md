@@ -4,7 +4,7 @@ Extensión para Google Chrome que permite usar la web de la AFIP.
 - Disponible en el [Chrome Web
    Store](https://chrome.google.com/webstore/detail/ajbbncchkoddmdigmcmalbpmkmmgmoek).
    
-![Screenshot](https://raw.githubusercontent.com/goncy/afipizador/master/screenshots/google-888.jpg)
+![Screenshot](https://raw.githubusercontent.com/goncy/afipizador/master/screenshots/google-640.png)
 
 # Contacto:
 Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un correo](mailto:gonzalo.pozzo4@gmail.com?Subject=AFIPizador).
