@@ -13,6 +13,11 @@ Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un corr
 Hecho por: [Goncy](http://github.com/goncy)
 
 # Updates:
+**Versión 0.0.2** (lanzada el 11 de Enero de 2017)
+* Arregla un bug cuando la pagina de la AFIP estaba caida.
 
-**Versión 0.1** (lanzada el 11 de Enero de 2017)
+**Versión 0.0.2** (lanzada el 11 de Enero de 2017)
+* Cambia los permisos de la app para solo usar los necesarios.
+
+**Versión 0.0.1** (lanzada el 11 de Enero de 2017)
 * Primer release.

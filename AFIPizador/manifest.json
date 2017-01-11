@@ -1,7 +1,7 @@
 {
   "name": "AFIPizador",
   "short_name": "AFIPizador",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Hace cambios en la web de AFIP para poder ingresar desde Google Chrome",
   "homepage_url": "https://github.com/goncy/afipizador",
@@ -14,16 +14,13 @@
       "matches": [ "*://*.afip.gov.ar/*" ],
       "run_at": "document_end"
    } ],
-   "background": {
-    "scripts": ["js/background.js"]
-  },
    "web_accessible_resources": ["js/afipizador.js"],
   "browser_action": {
-    "default_title": "Afipizador",
+    "default_title": "AFIPizador",
     "default_icon": "icon48.png",
     "default_popup": "popup.html"
   },
   "permissions": [
-    "tabs", "http://*/*", "https://*/*", "storage"
+    "activeTab"
   ]
 }
