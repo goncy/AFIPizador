@@ -13,6 +13,9 @@ Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un corr
 Hecho por: [Goncy](http://github.com/goncy)
 
 # Updates:
+**Versión 0.0.4** (lanzada el 16 de Enero de 2017)
+* Agrega polyfill de obtenerParam (Adhesion, Recategorizacion, Modificacion de datos) [No chequeado].
+
 **Versión 0.0.3** (lanzada el 11 de Enero de 2017)
 * Arregla un bug cuando la pagina de la AFIP estaba caida.
 
