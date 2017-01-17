@@ -1,9 +1,3 @@
-// Polyfill window.navigate
-window.navigate = function (x) { window.location.href = x; }
-
-// Replace form1 por document.form1
-if (document.form1) form1 = document.form1;
-
 // Polyfill obtenerParam
 function obtenerParam() {
     var tramite_tempo, parametro;
