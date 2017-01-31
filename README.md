@@ -13,6 +13,9 @@ Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un corr
 Hecho por: [Goncy](http://github.com/goncy)
 
 # Updates:
+**Versión 0.0.7** (lanzada el 31 de Enero de 2017)
+* Saca los polyfills en recategorizacion ya que AFIP los soluciono (creo).
+
 **Versión 0.0.6** (lanzada el 17 de Enero de 2017)
 * Injecta polyfills en todas las pantallas hasta saber bien en donde se usan.
 
