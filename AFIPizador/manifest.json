@@ -1,7 +1,7 @@
 {
   "name": "AFIPizador",
   "short_name": "AFIPizador",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "manifest_version": 2,
   "description": "Hace cambios en la web de AFIP para poder ingresar desde Google Chrome",
   "homepage_url": "https://github.com/goncy/afipizador",
