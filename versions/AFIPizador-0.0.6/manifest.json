@@ -24,7 +24,8 @@
   "web_accessible_resources": [
     "js/polyfills/windowPolyfill.js",
     "js/polyfills/obtenerParamPolyfill.js",
-    "js/polyfills/form1Polyfill.js"
+    "js/polyfills/form1Polyfill.js",
+    "js/polyfills/recategorizacionPolyfill.js"
   ],
   "browser_action": {
     "default_title": "AFIPizador",

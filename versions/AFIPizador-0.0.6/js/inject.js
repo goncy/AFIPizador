@@ -1,7 +1,8 @@
 [
   ["all", "windowPolyfill.js"],
   ["all", "form1Polyfill.js"],
-  ["all", "obtenerParamPolyfill.js"]
+  ["all", "obtenerParamPolyfill.js"],
+  ["all", "recategorizacionPolyfill.js"]
 ].map(function (item) {
   var url = item[0];
   var polyfill = item[1];
